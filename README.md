@@ -4,6 +4,6 @@
 ## 安装
 
 ```shell
-wget -N --no-check-certificate  https://raw.githubusercontent.com/FunctionClub/SWEB/master/install.sh && bash install.sh
+wget -N --no-check-certificate  https://raw.githubusercontent.com/aihoom/SWEB/master/install.sh && bash install.sh
 ```
 
