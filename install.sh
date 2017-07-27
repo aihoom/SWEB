@@ -84,7 +84,7 @@ echo ":80 {
 service caddy restart
 
 #Download SWEB Manager
-wget -N --no-check-certificate -O /usr/local/bin/sweb https://raw.githubusercontent.com/FunctionClub/SWEB/master/sweb
+wget -N --no-check-certificate -O /usr/local/bin/sweb https://raw.githubusercontent.com/aihoom/SWEB/master/sweb
 chmod +x /usr/local/bin/sweb
 
 #Start SWEB in Screen
