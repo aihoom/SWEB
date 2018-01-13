@@ -38,7 +38,7 @@ read -p "Please input your web password：" webpasswd
 
 
 #Install SSR (Powered By Teddysun : https://shadowsocks.be/9.html)
-wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/shadowsocks_install/master/shadowsocksR.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/aihoom/shadowsocks_install/master/shadowsocksR.sh
 chmod +x shadowsocksR.sh
 bash shadowsocksR.sh
 rm -rf shadowsocksR.sh
