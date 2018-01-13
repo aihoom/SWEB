@@ -73,7 +73,7 @@ rm -rf caddy_install.sh
 
 #Install SWEB
 cd /usr/local/
-git clone https://github.com/FunctionClub/SWEB
+git clone https://github.com/aihoom/SWEB
 chmod +x /usr/local/SWEB/cgi-bin
 
 #Configure Caddy Proxy
